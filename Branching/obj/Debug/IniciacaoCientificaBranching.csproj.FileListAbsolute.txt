@@ -1,0 +1,7 @@
+C:\Users\Felipe\source\repos\IniciacaoCientificaBranching\IniciacaoCientificaBranching\bin\Debug\IniciacaoCientificaBranching.exe.config
+C:\Users\Felipe\source\repos\IniciacaoCientificaBranching\IniciacaoCientificaBranching\bin\Debug\IniciacaoCientificaBranching.exe
+C:\Users\Felipe\source\repos\IniciacaoCientificaBranching\IniciacaoCientificaBranching\bin\Debug\IniciacaoCientificaBranching.pdb
+C:\Users\Felipe\source\repos\IniciacaoCientificaBranching\IniciacaoCientificaBranching\obj\Debug\IniciacaoCientificaBranching.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\source\repos\IniciacaoCientificaBranching\IniciacaoCientificaBranching\obj\Debug\IniciacaoCientificaBranching.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\IniciacaoCientificaBranching\IniciacaoCientificaBranching\obj\Debug\IniciacaoCientificaBranching.exe
+C:\Users\Felipe\source\repos\IniciacaoCientificaBranching\IniciacaoCientificaBranching\obj\Debug\IniciacaoCientificaBranching.pdb
